@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "# create server from scratch and google and then connect to a couple APIs for practice #",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boundsalexis/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boundsalexis/practice/issues"
+  },
+  "homepage": "https://github.com/boundsalexis/practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
